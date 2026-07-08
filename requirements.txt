@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+osmnx
+networkx
+matplotlib
+seaborn
+numpy
+requests
+plotly
